@@ -5,7 +5,6 @@
 ### разворачиваем контейнеры стенда
 
 ```shell
-cd sharding-repl-cache
 docker-compose up -d
 ```
 
